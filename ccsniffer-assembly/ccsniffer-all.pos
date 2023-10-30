@@ -1,0 +1,58 @@
+### Module positions - created on So 01 Okt 2023 17:43:30 CEST ###
+### Printed by Pcbnew version 6.0.11
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                      Package                                         PosX       PosY       Rot  Side
+C1        4.7u                     C_0603_1608Metric                           133.5000   -89.8250   90.0000  top
+C2        1u                       C_0402_1005Metric                           126.0500   -93.3500  -90.0000  top
+C3        1u                       C_0402_1005Metric                           119.6500   -82.9500    0.0000  top
+C4        100n                     C_0402_1005Metric                           131.6500   -88.0000    0.0000  top
+C5        100n                     C_0402_1005Metric                           114.6500   -81.0000  -90.0000  top
+C6        100n                     C_0402_1005Metric                           128.2000   -92.9700  -90.0000  top
+C7        100n                     C_0402_1005Metric                           128.6500   -84.2200  -90.0000  top
+C8        10n                      C_0402_1005Metric                           118.9500   -87.8000   90.0000  top
+C9        1u                       C_0402_1005Metric                           139.4000   -89.2000   90.0000  top
+D1        MHT194CRGBCT             LED_LiteOn_LTST-C19HE1WT                    129.8250   -92.1750    0.0000  top
+FID1      Fiducial                 Fiducial_0.5mm_Mask1mm                      103.9200   -77.3700    0.0000  top
+FID2      Fiducial                 Fiducial_0.5mm_Mask1mm                      146.5400   -85.6300    0.0000  top
+J1        USB_C_Receptacle         USB_C_Receptacle_Amphenol_12401548E4-2A     142.2500   -82.1750   90.0000  top
+J2        USB_B_Micro              USB_Micro-B_Amphenol_10118194_Horizontal    143.0500   -92.7350    0.0000  top
+P1        USB_C_Plug               USB_C_Plug_JAE_DX07P024AJ1                   99.4000   -82.1250  -90.0000  top
+Q1        PMZ600UNEYL              SOT-883                                     123.0000   -81.3500   90.0000  top
+Q2        PMZ600UNEYL              SOT-883                                     125.5750   -82.0500   90.0000  top
+Q3        PMZ600UNEYL              SOT-883                                     132.2500   -83.6775   90.0000  top
+Q4        PMZ600UNEYL              SOT-883                                     111.4500   -86.0500   90.0000  top
+Q5        PMZ600UNEYL              SOT-883                                     121.8000   -93.0500   90.0000  top
+Q6        PMZ600UNEYL              SOT-883                                     121.0000   -81.3775   90.0000  top
+R1        CSS0805FT15L0            R_0805_2012Metric                           107.3452   -81.0048   45.0000  top
+R2        CSS0805FT15L0            R_0805_2012Metric                           106.8000   -84.4500  -45.0000  top
+R3        381k                     R_0402_1005Metric                           119.0900   -81.5500  180.0000  top
+R4        1k                       R_0402_1005Metric                           129.7500   -82.3400  -90.0000  top
+R5        4.75k                    R_0402_1005Metric                           126.7500   -82.3400   90.0000  top
+R6        5.11k                    R_0402_1005Metric                           124.4000   -82.2400  -90.0000  top
+R7        12.1k                    R_0402_1005Metric                           127.7500   -82.3400   90.0000  top
+R8        35.7k                    R_0402_1005Metric                           128.7500   -82.3400  -90.0000  top
+R9        100R                     R_0402_1005Metric                           130.7500   -83.1100   90.0000  top
+R10       200R                     R_0402_1005Metric                           124.7500   -80.8000  180.0000  top
+R11       381k                     R_0402_1005Metric                           111.2600   -87.4500  180.0000  top
+R12       1k                       R_0402_1005Metric                           119.0500   -92.2400   90.0000  top
+R13       4.75k                    R_0402_1005Metric                           117.0500   -84.6000  180.0000  top
+R14       5.11k                    R_0402_1005Metric                           117.1000   -82.2500    0.0000  top
+R15       12.1k                    R_0402_1005Metric                           117.0400   -83.6000  180.0000  top
+R16       35.7k                    R_0402_1005Metric                           120.5500   -94.6500  180.0000  top
+R17       100R                     R_0402_1005Metric                           117.0900   -80.9500  180.0000  top
+R18       200R                     R_0402_1005Metric                           124.2000   -93.6000    0.0000  top
+R19       1k                       R_0402_1005Metric                           129.3500   -90.2000    0.0000  top
+R20       1k                       R_0402_1005Metric                           132.0500   -91.8800   90.0000  top
+R21       1k                       R_0402_1005Metric                           129.3500   -89.2500    0.0000  top
+R22       35.7k                    R_0402_1005Metric                           123.3900   -94.6500  180.0000  top
+R23       4.75k                    R_0402_1005Metric                           112.4000   -81.3250  -90.0000  top
+R24       4.75k                    R_0402_1005Metric                           113.4250   -81.3250  -90.0000  top
+SW1       PTS810-SJK-250-SMTR-LFS  SW_SPST_PTS810                              135.6000   -93.3500    0.0000  top
+U1        STM32F072CBU6            QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm         123.9500   -87.7500    0.0000  top
+U2        MAX4232AKA+T             SOT-23-8                                    115.7000   -86.9250    0.0000  top
+U3        TPD4E02B04DQA            USON-10_2.5x1.0mm_P0.5mm                    141.5500   -89.1350  -90.0000  top
+U4        INA231AIYFFR             Texas_DSBGA-12_1.65x1.39mm_P0.4mm_YFF0012   109.8800   -82.7200  -135.0000  top
+U5        INA231AIYFFR             Texas_DSBGA-12_1.65x1.39mm_P0.4mm_YFF0012   104.4000   -87.3500  180.0000  top
+U6        TCR2EF33,LM(CT           SC-74A                                      136.4500   -89.6500   90.0000  top
+## End
